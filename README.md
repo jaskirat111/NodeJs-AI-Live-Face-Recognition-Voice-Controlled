@@ -197,4 +197,3 @@ Special Thanks to the Wonderfull Developers that made that libs possible you sav
 
 Anything that you think let me know in the comments!
 
-By Daniel Florean.
